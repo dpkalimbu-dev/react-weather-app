@@ -1,6 +1,8 @@
-#React Weather Application 🌤️
+    #React Weather Application 🌤️
+
 A responsive weather application built with React, HTML, CSS, and JavaScript that provides real-time atmospheric data for any location worldwide.
-Features
+
+    #Features
 
 🌡️ Current temperature in Celsius (°C) and Fahrenheit (°F)
 💧 Detailed humidity readings
@@ -9,13 +11,13 @@ Features
 🔍 Search any global location
 ⚙️ Customizable settings
 
-#Built With
+    #Built With
 
 React
 Bootstrap 5
 Chart.js
 Babel
 
-#Demo
+    #Demo
 
-[Live Demo]()
+[Live Demo](https://dpkalimbu-dev.github.io/react-weather-app/)
